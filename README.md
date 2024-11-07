@@ -187,3 +187,5 @@ In conclusion, we won't collect any data from you.
 - Thanks to [@Nova-Aurora](https://github.com/Nova-Aurora) for fixing several errors in the English README.
 - Thanks to [@Michael18751](https://github.com/AaronFeng753/Waifu2x-Extension-GUI/issues/118) for adding a fadeout effect to the notification sound.
 - Thanks to [@CaptainStabs](https://github.com/CaptainStabs) for fixing several English grammar errors.
+  Create a Videoanimation of King Tekken 7 and Bart Simpson. They make special streetfighter moves!
+- 
